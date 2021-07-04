@@ -3,7 +3,7 @@
 	<PropertyGroup>
 		<TargetFramework>netstandard2.0</TargetFramework>
 		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-		<Version>0.0.2</Version>
+		<Version>0.0.3</Version>
 		<Authors>cahsul</Authors>
 		<Description>Just helpers</Description>
 		<IsPackable>true</IsPackable>
