@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FluentHelper\FluentHelpers.csproj" />
+    <ProjectReference Include="..\FluentHelpers\FluentHelpers.csproj" />
   </ItemGroup>
 
 </Project>
