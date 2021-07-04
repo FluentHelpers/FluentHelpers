@@ -3,7 +3,7 @@
 	<PropertyGroup>
 		<TargetFramework>netstandard2.0</TargetFramework>
 		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-		<Version>0.0.3</Version>
+		<Version>0.0.5</Version>
 		<Authors>cahsul</Authors>
 		<Description>Just helpers</Description>
 		<IsPackable>true</IsPackable>
@@ -42,7 +42,6 @@
 	  <Compile Remove="Extensions\Studly.cs" />
 	  <Compile Remove="Extensions\SubString.cs" />
 	  <Compile Remove="Extensions\TitleCase.cs" />
-	  <Compile Remove="Extensions\Trim.cs" />
 	  <Compile Remove="Extensions\Ucfirst.cs" />
 	  <Compile Remove="Extensions\UpperCase.cs" />
 	  <Compile Remove="Extensions\When.cs" />

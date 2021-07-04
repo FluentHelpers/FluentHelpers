@@ -23,7 +23,9 @@ namespace FluentHelpers
         public static bool IsNull(this decimal? value) { return (value == null); }
         public static bool IsNull(this char? value) { return (value == null); }
         public static bool IsNull(this bool? value) { return (value == null); }
-        public static bool IsNull(this object value) { return (value == null); }
+
+        public static bool IsNull(this Guid value) { return (value == Guid.Empty);  }
+        public static bool IsNull(this Guid? value) { return (value == null);  }
 
 
         public static bool IsNull(this DateTime? value) { return (value == null); }
