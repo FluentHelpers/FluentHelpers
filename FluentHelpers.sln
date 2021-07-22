@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluentHelpers", "FluentHelpers\FluentHelpers.csproj", "{33045BD9-9676-4B54-ADC7-775B72E38D11}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test.FluentHelpers", "Test.FluentHelpers\Test.FluentHelpers.csproj", "{853CF0E5-FEDB-419A-8D69-FCFDD55FEC8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F96AFDCA-F275-4A5B-8BBC-4205F6DD8E51}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33045BD9-9676-4B54-ADC7-775B72E38D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33045BD9-9676-4B54-ADC7-775B72E38D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33045BD9-9676-4B54-ADC7-775B72E38D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33045BD9-9676-4B54-ADC7-775B72E38D11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{853CF0E5-FEDB-419A-8D69-FCFDD55FEC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853CF0E5-FEDB-419A-8D69-FCFDD55FEC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853CF0E5-FEDB-419A-8D69-FCFDD55FEC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853CF0E5-FEDB-419A-8D69-FCFDD55FEC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A50A8761-CA62-4DA5-BD7C-74548369FC2B}
+	EndGlobalSection
+EndGlobal
