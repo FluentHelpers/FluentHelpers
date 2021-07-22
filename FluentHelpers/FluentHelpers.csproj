@@ -3,12 +3,14 @@
 	<PropertyGroup>
 		<TargetFramework>netstandard2.0</TargetFramework>
 		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-		<Version>0.0.5</Version>
+		<Version>0.0.7</Version>
 		<Authors>cahsul</Authors>
 		<Description>Just helpers</Description>
 		<IsPackable>true</IsPackable>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageProjectUrl>https://github.com/FluentHelpers/FluentHelpers</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/FluentHelpers/FluentHelpers</RepositoryUrl>
 	</PropertyGroup>
 
 	<ItemGroup>
