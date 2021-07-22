@@ -15,6 +15,7 @@ namespace Test.FluentHelpers.CamelCase
             Assert.Equal("helloWorld", "hello World".CamelCase());
             Assert.Equal("helloWorld", " hello World".CamelCase());
             Assert.Equal("helloWorld", " hello World ".CamelCase());
+            Assert.Equal("helloWorld", "  hello  World  ".CamelCase());
         }
 
     }

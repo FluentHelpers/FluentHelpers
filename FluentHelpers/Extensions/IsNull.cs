@@ -10,6 +10,7 @@ namespace FluentHelpers
         public static bool IsNullOrEmpty(this string value) { return string.IsNullOrEmpty(value); }
         public static bool IsNull(this string value) { return (value == null); }
 
+
         public static bool IsNull(this int? value) { return (value == null); }
         public static bool IsNull(this byte? value) { return (value == null); }
         public static bool IsNull(this sbyte? value) { return (value == null); }

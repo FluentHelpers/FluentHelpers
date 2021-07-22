@@ -14,6 +14,7 @@
 	<ItemGroup>
 	  <Compile Remove="Extensions\After.cs" />
 	  <Compile Remove="Extensions\Contains.cs" />
+	  <Compile Remove="Extensions\Count.cs" />
 	  <Compile Remove="Extensions\CrossJoin.cs" />
 	  <Compile Remove="Extensions\Dirname.cs" />
 	  <Compile Remove="Extensions\Divide.cs" />
@@ -32,7 +33,6 @@
 	  <Compile Remove="Extensions\PascalCase.cs" />
 	  <Compile Remove="Extensions\Pipe.cs" />
 	  <Compile Remove="Extensions\Prepend.cs" />
-	  <Compile Remove="Extensions\Random.cs" />
 	  <Compile Remove="Extensions\Remove.cs" />
 	  <Compile Remove="Extensions\Replace.cs" />
 	  <Compile Remove="Extensions\Slug.cs" />
@@ -42,6 +42,7 @@
 	  <Compile Remove="Extensions\Studly.cs" />
 	  <Compile Remove="Extensions\SubString.cs" />
 	  <Compile Remove="Extensions\TitleCase.cs" />
+	  <Compile Remove="Extensions\Trim.cs" />
 	  <Compile Remove="Extensions\Ucfirst.cs" />
 	  <Compile Remove="Extensions\UpperCase.cs" />
 	  <Compile Remove="Extensions\When.cs" />
